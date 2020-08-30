@@ -1,0 +1,3 @@
+https://your-stream-url/file.mp4/playlist.m3u8
+https://your-stream-url/file.mp4/playlist.m3u8
+https://your-stream-url/file.mp4/playlist.m3u8
